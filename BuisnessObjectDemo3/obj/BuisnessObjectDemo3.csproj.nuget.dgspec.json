@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj": {}
+    "E:\\Anamika-Gladiator\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj": {
+    "E:\\Anamika-Gladiator\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
+        "projectUniqueName": "E:\\Anamika-Gladiator\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
         "projectName": "BuisnessObjectDemo3",
-        "projectPath": "D:\\New folder\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
-        "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\BuisnessObjectDemo3\\obj\\",
+        "projectPath": "E:\\Anamika-Gladiator\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Anamika-Gladiator\\BuisnessObjectDemo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

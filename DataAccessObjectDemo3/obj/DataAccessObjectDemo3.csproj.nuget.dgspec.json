@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
+    "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
+    "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "projectUniqueName": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
         "projectName": "DataAccessObjectDemo3",
-        "projectPath": "D:\\New folder\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
-        "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\DataAccessObjectDemo3\\obj\\",
+        "projectPath": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
