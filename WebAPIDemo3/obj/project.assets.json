@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Dhiraj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
+      "projectUniqueName": "D:\\New folder\\WebAPIDemo3\\WebAPIDemo3.csproj",
       "projectName": "WebAPIDemo3",
-      "projectPath": "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNET\\Demo3\\WebAPIDemo3\\obj\\",
+      "projectPath": "D:\\New folder\\WebAPIDemo3\\WebAPIDemo3.csproj",
+      "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\WebAPIDemo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
