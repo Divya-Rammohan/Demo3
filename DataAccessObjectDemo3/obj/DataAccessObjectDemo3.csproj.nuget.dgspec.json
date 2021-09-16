@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
+    "C:\\Users\\Dhiraj\\source\\repos\\Demo3_1\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
   },
   "projects": {
-    "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
+    "C:\\Users\\Dhiraj\\source\\repos\\Demo3_1\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "projectUniqueName": "C:\\Users\\Dhiraj\\source\\repos\\Demo3_1\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
         "projectName": "DataAccessObjectDemo3",
-        "projectPath": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\obj\\",
+        "projectPath": "C:\\Users\\Dhiraj\\source\\repos\\Demo3_1\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dhiraj\\source\\repos\\Demo3_1\\DataAccessObjectDemo3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
