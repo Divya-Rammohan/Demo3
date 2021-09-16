@@ -3,8 +3,7 @@
 namespace DataAccessObjectDemo3
 {
     public class Class1
-    {
-
+    { 
         //Added a comment-Anamika here
     }
 
