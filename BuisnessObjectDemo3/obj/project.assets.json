@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dhiraj\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
+      "projectUniqueName": "E:\\DotNET\\Demo3\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
       "projectName": "BuisnessObjectDemo3",
-      "projectPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
-      "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\BuisnessObjectDemo3\\obj\\",
+      "projectPath": "E:\\DotNET\\Demo3\\BuisnessObjectDemo3\\BuisnessObjectDemo3.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "E:\\DotNET\\Demo3\\BuisnessObjectDemo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

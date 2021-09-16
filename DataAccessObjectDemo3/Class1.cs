@@ -7,6 +7,8 @@ namespace DataAccessObjectDemo3
 
         //Added a comment-Anamika here
     }
+
+    
     public class Class2
     {
         //added by dhiraj
@@ -16,4 +18,6 @@ namespace DataAccessObjectDemo3
     {
         //added by haris
     }
+
+    //changes done by Divya :)
 }

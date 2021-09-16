@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj": {}
+    "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj": {
+    "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
+        "projectUniqueName": "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
         "projectName": "WebAPIDemo3",
-        "projectPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
-        "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\WebAPIDemo3\\obj\\",
+        "projectPath": "E:\\DotNET\\Demo3\\WebAPIDemo3\\WebAPIDemo3.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNET\\Demo3\\WebAPIDemo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
+    "E:\\DotNET\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
+    "E:\\DotNET\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "projectUniqueName": "E:\\DotNET\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
         "projectName": "DataAccessObjectDemo3",
-        "projectPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
-        "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhiraj\\Source\\Repos\\Demo3\\DataAccessObjectDemo3\\obj\\",
+        "projectPath": "E:\\DotNET\\Demo3\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNET\\Demo3\\DataAccessObjectDemo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
