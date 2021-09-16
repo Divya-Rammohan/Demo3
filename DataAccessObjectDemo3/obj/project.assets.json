@@ -8,20 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+      "projectUniqueName": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
       "projectName": "DataAccessObjectDemo3",
-      "projectPath": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\Anamika-Gladiator\\DataAccessObjectDemo3\\obj\\",
+      "projectPath": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\DataAccessObjectDemo3.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\Project_Gladiator\\DataAccessObjectDemo3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

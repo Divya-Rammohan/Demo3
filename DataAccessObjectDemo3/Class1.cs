@@ -11,4 +11,8 @@ namespace DataAccessObjectDemo3
     {
         //added by dhiraj
     }
+    public class Class3
+    {
+        //added by haris
+    }
 }
